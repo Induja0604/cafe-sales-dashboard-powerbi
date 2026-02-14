@@ -45,7 +45,7 @@ DIVIDE([Total Revenue], [Total Transactions], 0)
 - Interactive Slicers (Date, Item, Payment Method)
 
 ## 📊 Dashboard Preview
-cafe-sales-dashboard.png
+cafe-sales-dashboard-powerbi/cafe-sales-dashboard.png
 
 ## Key Insights
 
