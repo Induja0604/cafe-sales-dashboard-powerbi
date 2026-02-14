@@ -44,7 +44,11 @@ DIVIDE([Total Revenue], [Total Transactions], 0)
 - Revenue by Location (Bar Chart)
 - Interactive Slicers (Date, Item, Payment Method)
 
-  ## Key Insights
+## 📊 Dashboard Preview
+
+![Cafe Sales Dashboard](screenshots/cafe-sales-dashboard.png)
+
+## Key Insights
 
 - Salad generated the highest revenue.
 - Digital wallet was the most preferred payment method.
@@ -57,6 +61,7 @@ DIVIDE([Total Revenue], [Total Transactions], 0)
 - Power Query
 - DAX
 - CSV Dataset
+
 
   ## Files Included
 
